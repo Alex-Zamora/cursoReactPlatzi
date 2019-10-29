@@ -1,0 +1,11 @@
+.related {
+    width: 300px;
+    /* background: #089487; */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.logo {
+    width: 250px;
+}
